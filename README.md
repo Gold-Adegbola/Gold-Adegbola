@@ -11,12 +11,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-
-<br>
-
-<h2>🔎SOC Investigations:</h2>
+- **Investigation:** Macro-ni Malicious Macro Investigation
+  - [Investigating a malicious Word macro](https://github.com/joshmadakor1/Algorithms-Practice)
+    
 
 <br>
 

@@ -12,7 +12,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - **Investigation:** Macro-ni Malicious Macro Investigation
-  - [Investigating a malicious Word macro](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Investigating a malicious Word macro](https://github.com/Gold-Adegbola/malicious-macro-investigation.git)
     
 
 <br>

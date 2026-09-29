@@ -27,4 +27,4 @@
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/gold-adegbola
+[linkedin]: https://www.linkedin.com/in/gold-adegbola-2064b223b/

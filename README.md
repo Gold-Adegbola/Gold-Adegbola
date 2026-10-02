@@ -13,7 +13,10 @@
 
 - **Investigation:** Macro-ni Malicious Macro Investigation
   - [Investigating a malicious Word macro](https://github.com/Gold-Adegbola/malicious-macro-investigation.git)
-    
+
+- **Lab:** Wazuh File Integrity Monitoring Lab
+  - [Wazuh File Integrity Monitoring lab: agent deployment, enrollment troubleshooting, and real-time FIM validation on Windows 11.](https://github.com/Gold-Adegbola/wazuh-file-integrity-monitoring.git)
+
 
 <br>
 

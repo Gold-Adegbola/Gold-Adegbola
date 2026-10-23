@@ -21,13 +21,18 @@
     
 <br>
 
-- **Lab:** Wazuh File Integrity Monitoring Lab
+- **Lab:** Wazuh File Integrity Monitoring
   - [Wazuh File Integrity Monitoring lab: agent deployment, enrollment troubleshooting, and real-time FIM validation on Windows 11.](https://github.com/Gold-Adegbola/wazuh-file-integrity-monitoring.git)
     
   <br>
   
-- **Lab:** Azure Sentinel Honeypot Lab
+- **Lab:** Azure Sentinel Honeypot
   - [Azure honeypot SOC lab: Azure honeypot SOC lab: a deliberately exposed Windows VM, Microsoft Sentinel detection rules mapped to MITRE ATT&CK, and a live attacker map built from real attack traffic.](https://github.com/Gold-Adegbola/azure-honeypot-soc-lab.git)
+ 
+  <br>
+  
+ - **Lab:** SOC Automation
+   - [SOC automation lab: Wazuh detects Mimikatz, Shuffle enriches and escalates it, and an approved response kills the process.](https://github.com/Gold-Adegbola/SOC-Automation.git)
   
 
 
